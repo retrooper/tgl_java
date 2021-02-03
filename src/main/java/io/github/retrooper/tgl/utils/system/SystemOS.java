@@ -1,4 +1,4 @@
-package io.github.retrooper.tgl.window;
+package io.github.retrooper.tgl.utils.system;
 
 /**
  * System Operating system.

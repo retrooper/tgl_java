@@ -1,8 +1,7 @@
 package io.github.retrooper.tgl.renderer;
 
-import com.kenai.jffi.Platform;
 import io.github.retrooper.tgl.TGLLibrary;
-import io.github.retrooper.tgl.window.SystemOS;
+import io.github.retrooper.tgl.utils.system.SystemOS;
 import jnr.ffi.LibraryLoader;
 
 public class TGLInternalManager {
